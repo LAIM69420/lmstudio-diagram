@@ -1,0 +1,12 @@
+{
+  "owner": "local",
+  "name": "diagram",
+  "type": "plugin",
+  "runner": "node",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "icon": "thumbnail.png",
+  "license": "MIT",
+  "description": "Generate Mermaid diagrams from natural-language descriptions. Supports flowcharts, sequence diagrams, class diagrams, and more.",
+  "categories": ["tools"]
+}
